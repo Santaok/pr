@@ -1,6 +1,6 @@
 export interface Todo {
     id: string
-    name: string
+    title: string
     is_done: boolean
     created_an:string
 }
