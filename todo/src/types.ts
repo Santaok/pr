@@ -2,5 +2,5 @@ export interface Todo {
     id: string
     title: string
     is_done: boolean
-    created_an:string
+    created_at:string
 }
